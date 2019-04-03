@@ -1,0 +1,14 @@
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\bin\Debug\netcoreapp2.1\Contactos.deps.json
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\bin\Debug\netcoreapp2.1\Contactos.runtimeconfig.json
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\bin\Debug\netcoreapp2.1\Contactos.runtimeconfig.dev.json
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\bin\Debug\netcoreapp2.1\Contactos.dll
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\bin\Debug\netcoreapp2.1\Contactos.pdb
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.csprojAssemblyReference.cache
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.csproj.CoreCompileInputs.cache
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.RazorAssemblyInfo.cache
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.RazorAssemblyInfo.cs
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.AssemblyInfoInputs.cache
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.AssemblyInfo.cs
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.RazorTargetAssemblyInfo.cache
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.dll
+D:\_DotNetCore\Udemy\API_NetCore\Contactos\obj\Debug\netcoreapp2.1\Contactos.pdb
